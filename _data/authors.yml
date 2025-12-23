@@ -1,13 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Shiyang Feng:
+  name        : "Shiyang Feng (冯世阳)"
+  uri         : ""
+  email       : "none@example.org"
+  bio         : "Researcher at Shanghai AI Lab"
+  avatar      : "profile.png"
+  twitter     : ""
+  google_plus : ""
 
 Name2 Name2:
   name        : "Name2 Name2"
